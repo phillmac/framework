@@ -59,6 +59,7 @@ class MemcachedStore extends ArrayStore
                     'servers' => [
                         $memcachedConfig,
                     ],
+                    'sasl' => $memcachedConfig['sasl'] ?? []
                 ],
             ],
         ];

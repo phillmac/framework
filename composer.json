@@ -1,5 +1,5 @@
 {
-    "name": "userfrosting/framework",
+    "name": "phillmac/userfrosting-framework",
     "type": "library",
     "description": "Framework for UserFrosting",
     "keywords": ["userfrosting", "Framework"],

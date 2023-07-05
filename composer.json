@@ -30,7 +30,7 @@
         "illuminate/cache": "^9.0",
         "illuminate/container": "^9.0",
         "illuminate/redis": "^9.0",
-        "jackiedo/dotenv-editor": "^1.2",
+        "jackiedo/dotenv-editor": "^2.1.0",
         "symfony/yaml": ">=4.4",
         "ezyang/htmlpurifier": "^4.7.0",
         "vlucas/valitron": "^1.2.3",
